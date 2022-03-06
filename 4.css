@@ -1,0 +1,33 @@
+* {
+    background-color: gray;
+}
+
+.meotxe {
+    margin-top: 100px;
+    padding-left: 400px;
+    color:bisque
+}
+
+.name {
+    color: black;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lastname {
+    color: aqua;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.asaki {
+    color: coral;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hobby {
+    color: chartreuse;
+    font-size: 20px;
+    font-family: cursive;
+}
